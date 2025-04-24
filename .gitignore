@@ -1,0 +1,4 @@
+.env
+terrain_dem.tiff
+terrain_dem.tif
+node_modules/
